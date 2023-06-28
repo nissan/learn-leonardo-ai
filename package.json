@@ -1,0 +1,15 @@
+{
+  "name": "learn-leonardo-ai",
+  "version": "1.0.0",
+  "description": "Learning how to use Leonardo AI API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nissan Dookeran",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^6.0.0"
+  }
+}
